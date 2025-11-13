@@ -111,8 +111,6 @@ Now your app should be running successfully 🎉
 - ☁️ Branch [dev-v2-aws](https://github.com/wasted-03/instagram-mern/tree/dev-v2-aws): Leverages AWS S3 for Image Storage
 - 💾 Branch [dev-v1](https://github.com/wasted-03/instagram-mern/tree/dev-v1): Relies on Local Storage Solution
 
-## Sneak Peek of Home Page 🙈 :
-![home](https://user-images.githubusercontent.com/64949957/159116089-cfc2b4c5-dc7d-4d4b-a0c8-668f89ce5412.png)
 
 
 
